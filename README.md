@@ -1,8 +1,8 @@
 #### Olá! I'm Iasmin, a Brazilian 🇧🇷 Front-end Developer + Back-end / Data-Science student.
 
-My interest in coding started as a research assistant during my major/master's degrees, when I experienced the basics of R-/Python in Data Analysis applied to Neuroscience. At that time, I also implemented some simple web applications that helped managing cognitive training sessions with clinical patients from my University's Clinical Hospital.
+My interest in coding started as a research assistant during my major/master's degrees, when I experienced the basics of R-/Python in Data Analysis applied to Neuroscience. At that time, I also implemented some simple web applications that helped managing cognitive training sessions with clinical patients from my University's Hospital.
 
-After some time playing with the idea of transitioning into a tech path, I've begun my journey of studying full stack web development, and I've already learned a lot about…
+Since I've begun my journey of studying full stack web development, and I've already learned a lot about…
 
 * Javascript ES6 + HTML + CSS;
 * Frontend frameworks: React.js and Redux and React hooks;
