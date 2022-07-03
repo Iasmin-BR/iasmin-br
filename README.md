@@ -10,11 +10,12 @@
         <a href="https://iasmin-br.github.io/Star-Wars-Planets/">Demo</a> |
         <a href="https://github.com/Iasmin-BR/Star-Wars-Planets">Repo</a>
       </p>
-      <a href="https://iasmin-br.github.io/Star-Wars-Planets/"
-        ><img
+      <a href="https://iasmin-br.github.io/Star-Wars-Planets/">
+      <img
           src="./images/projects-preview/Starwars-preview.gif"
           alt="Project-preview"
-      /></a>
+       />
+      </a>
     </td>
   </tr>
 </table>
