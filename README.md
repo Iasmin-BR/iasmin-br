@@ -20,9 +20,9 @@
   </tr>
 </table>
 
-#### Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminbr)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <a href="https://github.com/iasmin-br"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iasmin-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/> <a href="https://github.com/iasmin-br"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmin-br&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 #### About me
 
@@ -30,8 +30,4 @@ My interest in coding started as a research assistant during my major/master's d
 
 #### 🛠️ Tools
 
-* Javascript ES6 + HTML + CSS;
-* Frontend frameworks: React.js and Redux and React hooks;
-* Collaboration tools: Git & GitHub / Agile / Pair-programming;
-* [Learning now] Backend technologies: building APIs + Typescript;
-* [Learning soon] Data Science: Python & Data Analysis;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
