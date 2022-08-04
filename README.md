@@ -20,14 +20,13 @@
   </tr>
 </table>
 
-<div>
-    <a href="https://github.com/iasmin-br"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iasmin-br&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/> <a href="https://github.com/iasmin-br"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmin-br&layout=compact&langs_count=7&theme=radical"/>
+#### 🛠️ Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
+
+<a href="https://github.com/iasmin-br"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmin-br&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 #### About me
 
 My interest in coding started as a research assistant during my major/master's degrees, when I experienced the basics of R-/Python in Data Analysis applied to Neuroscience. At that time, I also implemented some simple web applications that helped managing cognitive training sessions with clinical patients from my University's Hospital. Currently, I am studying to be a full-stack web-developer.
-
-#### 🛠️ Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
