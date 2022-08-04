@@ -20,6 +20,10 @@
   </tr>
 </table>
 
+#### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminbr)](https://github.com/anuraghazra/github-readme-stats)
+
 #### About me
 
 My interest in coding started as a research assistant during my major/master's degrees, when I experienced the basics of R-/Python in Data Analysis applied to Neuroscience. At that time, I also implemented some simple web applications that helped managing cognitive training sessions with clinical patients from my University's Hospital. Currently, I am studying to be a full-stack web-developer.
