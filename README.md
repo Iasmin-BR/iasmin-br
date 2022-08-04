@@ -21,7 +21,7 @@
 </table>
 
 <div>
-    <a href="https://github.com/iasmin-br"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iasmin-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/> <a href="https://github.com/iasmin-br"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmin-br&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/iasmin-br"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iasmin-br&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/> <a href="https://github.com/iasmin-br"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmin-br&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 #### About me
